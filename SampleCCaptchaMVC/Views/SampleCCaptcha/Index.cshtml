@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>sample CCaptcha </title>
+    <script src="https://widget.ccaptcha.com/js/ccaptcha_version2_M1.js"></script>
+</head>
+<body>
+ 
+ 
+
+    @using (Html.BeginForm())
+    {
+        <div id="Ccaptcha_M1"  data-ccaptcha_apicode="YOUR DOMAIN API CODE"></div>
+        
+
+        <br />
+        <input type="submit" name="name" value="Confirm" />  
+        <br />
+        @ViewBag.Response  
+     
+    }
+</body>
+</html>

@@ -1,0 +1,98 @@
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csc.exe
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csc.exe.config
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csc.rsp
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csi.exe
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csi.rsp
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.AppContext.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\vbc.exe
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\vbc.exe.config
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\vbc.rsp
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\VBCSCompiler.exe
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\SampleCCaptchaMVC.dll.config
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\SampleCCaptchaMVC.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\SampleCCaptchaMVC.pdb
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Newtonsoft.Json.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Helpers.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Mvc.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Razor.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Deployment.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Razor.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Newtonsoft.Json.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Razor.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Deployment.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Razor.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Helpers.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Mvc.xml
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\obj\Debug\SampleCCaptchaMVC.csprojResolveAssemblyReference.cache
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\obj\Debug\SampleCCaptchaMVC.dll
+E:\Captcha\AppCcaptcha\SampleCCaptchaMVC\SampleCCaptchaMVC\obj\Debug\SampleCCaptchaMVC.pdb
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csc.exe
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csc.exe.config
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csc.rsp
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csi.exe
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\csi.rsp
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\vbc.exe
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\vbc.exe.config
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\vbc.rsp
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\SampleCCaptchaMVC.dll.config
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\SampleCCaptchaMVC.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\SampleCCaptchaMVC.pdb
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Newtonsoft.Json.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Helpers.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Mvc.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Razor.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\Newtonsoft.Json.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Razor.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Helpers.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\bin\System.Web.Mvc.xml
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\obj\Debug\SampleCCaptchaMVC.csprojResolveAssemblyReference.cache
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\obj\Debug\SampleCCaptchaMVC.dll
+C:\Users\ccaptcha office 2\Desktop\SampleCCaptchaMVC\SampleCCaptchaMVC\obj\Debug\SampleCCaptchaMVC.pdb
